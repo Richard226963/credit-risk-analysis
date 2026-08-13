@@ -12,8 +12,6 @@ Predicting loan default risk for a fintech lending business — end-to-end binar
 classification following the **CRISP-DM** framework, from messy raw data to a
 production-ready model comparison.
 
-> Final project, Case 1 — Inteligo ID 2026 Data Science Bootcamp.
-
 ## Highlights
 
 - **Best model: Logistic Regression** — strong baseline that beats the complex models
@@ -77,6 +75,6 @@ pip install pandas numpy matplotlib seaborn scikit-learn xgboost
 
 ## Notes
 
-- The presentation deck and QA materials from the original submission are intentionally
-  excluded — this repository contains the code and data only.
+- The presentation deck and QA materials are intentionally excluded — this repository
+  contains the code and data only.
 - Notebook text is in Indonesian; figures and evaluation outputs are self-explanatory.
